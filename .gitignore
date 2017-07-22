@@ -1,3 +1,10 @@
+/Release
+/Debug
+*.ncb
+*.suo
+*.user
+*.psd
+
 # Prerequisites
 *.d
 

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<impressionist>
+<!--<param name="brush name" value="oval brush" />-->
+<param name="brush name" value="back slanted line brush" />
+<param name="brush size" value="2.8" />
+<param name="stroke step size" value="4" />
+<param name="stroke count" value="1000" />
+<param name="strokes per executation" value="100" />
+<param name="strokes per refresh" value="50" />
+</impressionist>
